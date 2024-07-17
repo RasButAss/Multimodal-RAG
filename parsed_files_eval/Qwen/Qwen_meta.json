@@ -1,0 +1,522 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                710.1380004882812,
+                0.0
+            ]
+        },
+        {
+            "title": "Pretraining",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                236.32701110839844,
+                0.0
+            ]
+        },
+        {
+            "title": "Data",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                141.83200073242188,
+                0.0
+            ]
+        },
+        {
+            "title": "Tokenization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                367.3059997558594,
+                0.0
+            ]
+        },
+        {
+            "title": "Architecture",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                134.13400268554688,
+                0.0
+            ]
+        },
+        {
+            "title": "Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                285.5140075683594,
+                0.0
+            ]
+        },
+        {
+            "title": "Context Length Extension",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                141.5780029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Experimental Results",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                153.5279998779297,
+                0.0
+            ]
+        },
+        {
+            "title": "Alignment",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                276.0039978027344,
+                0.0
+            ]
+        },
+        {
+            "title": "Supervised Finetuning",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                155.1820068359375,
+                0.0
+            ]
+        },
+        {
+            "title": "Data",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                710.1380004882812,
+                0.0
+            ]
+        },
+        {
+            "title": "Training",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                500.70001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Reinforcement Learning from Human Feedback",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                383.72900390625,
+                0.0
+            ]
+        },
+        {
+            "title": "Reward Model",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                283.69500732421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Reinforcement Learning",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                472.6710205078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Automatic and Human Evaluation of Aligned Models",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                191.15301513671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Tool Use, Code Interpreter, and Agent",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                341.7020263671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Code-Qwen: Specialized Model for Coding",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                258.302978515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Code Pretraining",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                130.3179931640625,
+                0.0
+            ]
+        },
+        {
+            "title": "Code Supervised Fine-Tuning",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                601.6629638671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Evaluation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                489.5190124511719,
+                0.0
+            ]
+        },
+        {
+            "title": "Math-Qwen: Specialized Model for Mathematics Reasoning",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                229.0570068359375,
+                0.0
+            ]
+        },
+        {
+            "title": "Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                130.56399536132812,
+                0.0
+            ]
+        },
+        {
+            "title": "Evaluation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                644.72705078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Related Work",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                497.7300109863281,
+                0.0
+            ]
+        },
+        {
+            "title": "Large Language Models",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                472.2550048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Alignment",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                141.8310089111328,
+                0.0
+            ]
+        },
+        {
+            "title": "Tool Use and Agents",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                411.7669982910156,
+                0.0
+            ]
+        },
+        {
+            "title": "LLM for Coding",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                230.62200927734375,
+                0.0
+            ]
+        },
+        {
+            "title": "LLM for Mathematics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                678.9900512695312,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                468.1809997558594,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                710.1380004882812,
+                0.0
+            ]
+        },
+        {
+            "title": "More Training Details",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                692.20703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Data Format for Qwen-Chat",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                670.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Evaluation",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                402.3689880371094,
+                0.0
+            ]
+        },
+        {
+            "title": "Automatic Evaluation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                384.2480163574219,
+                0.0
+            ]
+        },
+        {
+            "title": "Human Evaluation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                684.8399658203125,
+                0.0
+            ]
+        },
+        {
+            "title": "Analysis of Code Interpreter",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                434.5360107421875,
+                0.0
+            ]
+        }
+    ],
+    "pages": 59,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 36,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

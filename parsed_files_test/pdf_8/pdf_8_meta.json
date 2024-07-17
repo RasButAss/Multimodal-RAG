@@ -1,0 +1,280 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Supramolecular Self-Assembled Nanospheres for Enzyme Encapsulation Based on Cyclodextrin",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 0,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                646.875,
+                549.0910034179688,
+                646.875
+            ]
+        },
+        {
+            "title": "1. Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                299.9079895019531,
+                291.0589904785156,
+                299.9079895019531
+            ]
+        },
+        {
+            "title": "2. Experimental",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                471.7239990234375,
+                291.0589904785156,
+                471.7239990234375
+            ]
+        },
+        {
+            "title": "2.1. Materials",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                449.8059997558594,
+                291.0589904785156,
+                449.8059997558594
+            ]
+        },
+        {
+            "title": "2.2. Polymer Synthesis",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                315.2740173339844,
+                291.0589904785156,
+                315.2740173339844
+            ]
+        },
+        {
+            "title": "2.2.1. Preparation of the Alg-\u03b2-CD",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                295.3489990234375,
+                291.0589904785156,
+                295.3489990234375
+            ]
+        },
+        {
+            "title": "2.2.2. Preparation of the mPEG-Fc",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                308.9909973144531,
+                603.3059692382812,
+                549.0910034179688,
+                603.3059692382812
+            ]
+        },
+        {
+            "title": "2.3. Preparation of Alg-\u03b2-CD/mPEG-Fc/\u03b1-CD Nanospheres and Alg-\u03b2-CD/mPEG-Fc/\u03b1-CD Nanospheres Loaded with GOD (Alg-\u03b2-CD/mPEG-Fc/\u03b1-CD/GOD)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                308.9909973144531,
+                351.9420166015625,
+                549.0910034179688,
+                351.9420166015625
+            ]
+        },
+        {
+            "title": "2.4. Determination of GOD Encapsulation and Leakage Efficiency",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                308.9909973144531,
+                192.23500061035156,
+                549.0910034179688,
+                192.23500061035156
+            ]
+        },
+        {
+            "title": "2.5. Activity of the Free and Encapsulated GOD",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                133.82501220703125,
+                291.0589904785156,
+                133.82501220703125
+            ]
+        },
+        {
+            "title": "2.6. Measurement Method of the Michaelis Constant",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                731.2880249023438,
+                291.0589904785156,
+                731.2880249023438
+            ]
+        },
+        {
+            "title": "2.7. Measurements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                525.1940307617188,
+                291.0589904785156,
+                525.1940307617188
+            ]
+        },
+        {
+            "title": "3. Results and Discussion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                420.9429931640625,
+                291.0589904785156,
+                420.9429931640625
+            ]
+        },
+        {
+            "title": "4. Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                168.88800048828125,
+                291.0589904785156,
+                168.88800048828125
+            ]
+        },
+        {
+            "title": "Data Availability",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "FitR",
+            "view_pos": [
+                308.9909973144531,
+                193.23500061035156,
+                549.0910034179688,
+                193.23500061035156
+            ]
+        },
+        {
+            "title": "Conflicts of Interest",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "FitR",
+            "view_pos": [
+                308.9909973144531,
+                146.69000244140625,
+                549.0910034179688,
+                146.69000244140625
+            ]
+        },
+        {
+            "title": "Acknowledgments",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "FitR",
+            "view_pos": [
+                308.9909973144531,
+                100.1449966430664,
+                549.0910034179688,
+                100.1449966430664
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "FitR",
+            "view_pos": [
+                50.95899963378906,
+                731.9820556640625,
+                291.0589904785156,
+                731.9820556640625
+            ]
+        }
+    ],
+    "pages": 9,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 16,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 9,
+            "unsuccessful_ocr": 0,
+            "equations": 9
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

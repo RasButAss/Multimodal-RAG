@@ -1,0 +1,327 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                233.98399353027344,
+                0.0
+            ]
+        },
+        {
+            "title": "Related work",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                610.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "fMRI data collection for visual imagery",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                344.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Image dataset used: Surrealism",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                237.60101318359375,
+                0.0
+            ]
+        },
+        {
+            "title": "fMRI parameters",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Weak imagination: data collection protocol",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                642.35400390625,
+                0.0
+            ]
+        },
+        {
+            "title": "Strong imagination: data collection protocol",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                484.07501220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Pre-processing of raw BOLD data and masking of the regions of interest",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                303.97900390625,
+                0.0
+            ]
+        },
+        {
+            "title": "Mind-to-Image pipeline",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                572.2200317382812,
+                0.0
+            ]
+        },
+        {
+            "title": "fMRI-to-Image model",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                491.2190246582031,
+                0.0
+            ]
+        },
+        {
+            "title": "Specialized model approach",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                425.86199951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Alternative approach: fine-tuning from pre-trained fMRI-to-Image model on vision.",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                183.8830108642578,
+                0.0
+            ]
+        },
+        {
+            "title": "Mind-to-Image pipeline",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Results",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                561.1929931640625,
+                0.0
+            ]
+        },
+        {
+            "title": "What happens in the brain during visualisation, weak and strong imagination?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                471.90399169921875,
+                0.0
+            ]
+        },
+        {
+            "title": "Can we reconstruct images from weak imagination / memory?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Can we reconstruct images from strong imagination / pure imagination?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                191.40399169921875,
+                0.0
+            ]
+        },
+        {
+            "title": "Discussion",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                530.4750366210938,
+                0.0
+            ]
+        },
+        {
+            "title": "Ethical considerations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                503.45098876953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Future work",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                335.0710144042969,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                145.93899536132812,
+                0.0
+            ]
+        },
+        {
+            "title": "Uncurated samples for weak imagination",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Experimental details",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                254.10301208496094,
+                0.0
+            ]
+        }
+    ],
+    "pages": 12,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

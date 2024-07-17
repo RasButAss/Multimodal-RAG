@@ -1,0 +1,223 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Establishing the origin of Marcus-inverted-region behaviour in the excited-state dynamics of cobalt(III) polypyridyl comple ...",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 14,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                683.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Results and discussion ",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                305.0,
+                532.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Transient absorption spectroscopy ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                305.0,
+                412.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Variable-temperature time-resolved spectroscopy ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                218.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Computational studies: assessing the Marcus parameters ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                412.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Origin of the inverted-region behaviour ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                498.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusions ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                305.0,
+                123.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Online content ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                113.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Fig. 1 Structure, ground-state and excited-state properties.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                602.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Fig. 2 Schematic representation of the energy gap law and Marcus theory.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                563.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Fig. 3 Variable-temperature transient absorption studies.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                441.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Fig. 4 Origin of Marcus inverted region in Co(III).",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                557.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Fig. 5 Proposed model.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                493.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Extended Data Fig. 1 Computational studies to estimate reorganization energy.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                449.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 1 Arrhenius, Eyring and Marcus parameters associated with ground-state recovery from the lowest-energy ligand-field excited state of a series of Co(III) polypyridyl complexes.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                39.0,
+                746.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 11,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 30,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 5,
+            "unsuccessful_ocr": 0,
+            "equations": 5
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

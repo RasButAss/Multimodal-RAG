@@ -1,0 +1,314 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                366.1260070800781,
+                0.0
+            ]
+        },
+        {
+            "title": "Background",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                620.8370361328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Quantum Basics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                592.1859741210938,
+                0.0
+            ]
+        },
+        {
+            "title": "Quantum Errors",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                230.87301635742188,
+                0.0
+            ]
+        },
+        {
+            "title": "Quantum Error Correction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                543.6950073242188,
+                0.0
+            ]
+        },
+        {
+            "title": "Surface Code",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                114.3550033569336,
+                0.0
+            ]
+        },
+        {
+            "title": "Notation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                117.9520034790039,
+                0.0
+            ]
+        },
+        {
+            "title": "Related Work",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                269.2190246582031,
+                0.0
+            ]
+        },
+        {
+            "title": "Implicit Long-range Dependency Learning for Quantum Error Correction",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                360.9960021972656,
+                0.0
+            ]
+        },
+        {
+            "title": "Intuition",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                317.7560119628906,
+                0.0
+            ]
+        },
+        {
+            "title": "Probabilistic View",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                114.3550033569336,
+                0.0
+            ]
+        },
+        {
+            "title": "Methods",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                399.1199951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Experiments",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                141.60000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "Data Construction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                113.50299835205078,
+                0.0
+            ]
+        },
+        {
+            "title": "Experimental Setting",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                164.0290069580078,
+                0.0
+            ]
+        },
+        {
+            "title": "Results",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                454.5660095214844,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Dataset Details",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                388.0090026855469,
+                0.0
+            ]
+        },
+        {
+            "title": "Additional Empirical Results: Over-Smoothing Analysis for QEC",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                182.34300231933594,
+                0.0
+            ]
+        },
+        {
+            "title": "Reproducibility",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                391.84600830078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Implementation Details",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                363.19500732421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Hyper-parameter",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                281.90399169921875,
+                0.0
+            ]
+        }
+    ],
+    "pages": 19,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 7,
+        "equations": {
+            "successful_ocr": 34,
+            "unsuccessful_ocr": 4,
+            "equations": 38
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

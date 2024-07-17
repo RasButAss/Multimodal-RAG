@@ -1,0 +1,518 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Sequential LASER ART and CRISPR Treatments Eliminate HIV-1 in a Subset of Infected Humanized Mice",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 34,
+            "page_index": 0,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                622.0,
+                596.0,
+                596.0
+            ]
+        },
+        {
+            "title": "Results",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                736.0,
+                596.0,
+                726.0
+            ]
+        },
+        {
+            "title": "Creation and characterization of HIV-1 infected humanized mice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                726.0,
+                596.0,
+                715.0
+            ]
+        },
+        {
+            "title": "Generation and pharmacokinetic (PK) testing of LASER ART",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                327.0,
+                596.0,
+                307.0
+            ]
+        },
+        {
+            "title": "Editing of viral DNA in ART treated T-cells by CRISPR-Cas9",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                349.0,
+                596.0,
+                339.0
+            ]
+        },
+        {
+            "title": "Viral rebound after LASER ART and AAV9-CRISPR-Cas9 treatment of infected humanized mice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                139.0,
+                596.0,
+                119.0
+            ]
+        },
+        {
+            "title": "HIV-1 elimination in LASER ART and CRISPR-Cas9-treated mice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                444.0,
+                596.0,
+                423.0
+            ]
+        },
+        {
+            "title": "On and Off target CRISPR-Cas9 effects",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                517.0,
+                596.0,
+                506.0
+            ]
+        },
+        {
+            "title": "Validation for LASER ART and CRISPR-Cas9 HIV-1 therapeutic elimination",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                67.0,
+                596.0,
+                56.0
+            ]
+        },
+        {
+            "title": "Discussion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                237.0,
+                596.0,
+                223.0
+            ]
+        },
+        {
+            "title": "Methods",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 17,
+            "page_index": 11,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                313.0,
+                596.0,
+                299.0
+            ]
+        },
+        {
+            "title": "Cell culture reagents",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                299.0,
+                596.0,
+                290.0
+            ]
+        },
+        {
+            "title": "Cell culture HIV-1 infection",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                143.0,
+                596.0,
+                130.0
+            ]
+        },
+        {
+            "title": "Design of gRNA, construction of CRISPR-Cas9 expression plasmid and the AAV9 vector",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                554.0,
+                596.0,
+                545.0
+            ]
+        },
+        {
+            "title": "HIV-1 infection of CD34\u2009+\u2009humanized mice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                313.0,
+                596.0,
+                293.0
+            ]
+        },
+        {
+            "title": "Nanoformulated antiretroviral drugs",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                99.0,
+                596.0,
+                90.0
+            ]
+        },
+        {
+            "title": "Antibodies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                511.0,
+                596.0,
+                502.0
+            ]
+        },
+        {
+            "title": "Immunohistochemistry (IHC) examinations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                312.0,
+                596.0,
+                303.0
+            ]
+        },
+        {
+            "title": "Nucleic acid extractions and qPCR assays",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                198.0,
+                596.0,
+                190.0
+            ]
+        },
+        {
+            "title": "ddPCR for detection of HIV-1 nucleic acids",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                208.0,
+                596.0,
+                198.0
+            ]
+        },
+        {
+            "title": "RNAscope",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                208.0,
+                596.0,
+                196.0
+            ]
+        },
+        {
+            "title": "Viral recovery",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                142.0,
+                596.0,
+                130.0
+            ]
+        },
+        {
+            "title": "Adoptive transfers",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                205.0,
+                596.0,
+                195.0
+            ]
+        },
+        {
+            "title": "Off-target analyses",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                64.0,
+                596.0,
+                54.0
+            ]
+        },
+        {
+            "title": "Excision efficiencies and hierarchal clustering",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                604.0,
+                596.0,
+                595.0
+            ]
+        },
+        {
+            "title": "Study Approval",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                329.0,
+                596.0,
+                320.0
+            ]
+        },
+        {
+            "title": "Statistics",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                249.0,
+                596.0,
+                240.0
+            ]
+        },
+        {
+            "title": "Reporting Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                135.0,
+                596.0,
+                126.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                106.0,
+                596.0,
+                95.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                681.0,
+                596.0,
+                670.0
+            ]
+        },
+        {
+            "title": "Acknowledgements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                424.0,
+                596.0,
+                411.0
+            ]
+        },
+        {
+            "title": "Author contributions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                216.0,
+                596.0,
+                204.0
+            ]
+        },
+        {
+            "title": "ACKNOWLEDGEMENTS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                216.0,
+                596.0,
+                204.0
+            ]
+        },
+        {
+            "title": "Competing interests",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                736.0,
+                596.0,
+                726.0
+            ]
+        },
+        {
+            "title": "ACKNOWLEDGEMENTS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "FitR",
+            "view_pos": [
+                0.0,
+                216.0,
+                596.0,
+                204.0
+            ]
+        }
+    ],
+    "pages": 20,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 74,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
