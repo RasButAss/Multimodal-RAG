@@ -40,9 +40,12 @@ Additionally, if you wish to join Otsuka Corporation, the results of this compet
 The main objective was to preprocess PDF files of scientific papers, extract images, tables, text and equations and create a Multimodal Retrieval Augmented Generation (RAG) chatbot using Langchain, OpenAI ChatGPT 3.5 Turbo, MiniCPM-Llama3-V-2_5 (VLM) and OpenAI text embedding-3-large. I made use of open-source software like Marker and Nougat to parse through pdf files and 
 convert it into a markdown format. Implemented a Hierarchical Chunking strategy to chunk the pdf files and store it in a ChromaDB along with its embeddings generated using OpenAI text-embedding-3-large. Designed and developed an RAG pipeline using Ensemble Retrieval methods and generated image context using the open-source VLM MiniCPM-Llama3-V-2_5.<br><br>
 ![Pipeline Overview](https://github.com/RasButAss/Multimodal-RAG/blob/main/images/RAG.drawio.github3.png)
+### Preprocessing
 The PDFs were parsed into markdowns using the Marker and Nougat models.​ The Marker model was able to extract images and tables from pdfs and parse the pdf into markdown format.​ The Nougat model was able to extract important mathematical equations and complex tables and parse the pdfs into a special mathpix markdown format. An additional preprocessing step was done to get a detailed description of images with relevant context provided. All the images extracted from the markdown files were sent over to a VLM to generate individual image descriptions.<br>
 ![Preprocessing](https://github.com/RasButAss/Multimodal-RAG/blob/main/images/RAG.drawio.github1.png)<br>
+### Retrieval
 Input question is queried into a Parent Document Retriever and a Multiquery Retriever​. The relevant context is retrieved through the two different retrievers. Relevance Embedding Filter and Redundant Embedding Filter was used for Contextual Compression.​<br>
 ![Retrieval](https://github.com/RasButAss/Multimodal-RAG/blob/main/images/RAG.drawio.github2.png)<br>
+### RAG pipeline
 The user input is passed through the retriever to get the relevant context.​ A check is made if there is an image in retrieved context.​ If there is an image we then query the VLM to generate a summary of the image.​ If no image was found then we just pass the context onto the system prompt​. This processing is illustrated in the figure below.<br>
 ![Pipeline Overview](https://github.com/RasButAss/Multimodal-RAG/blob/main/images/RAG.drawio.github3.png)
